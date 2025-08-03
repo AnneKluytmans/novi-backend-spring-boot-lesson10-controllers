@@ -81,22 +81,13 @@ Example (city not found):
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-    git@github.com:AnneKluytmans/novi-backend-springboot-controllers.git
-    ```
-   or
+1. Open the project in your IDE (IntelliJ IDEA)
+2. Navigate to the `DemoApplication` class
+3. Run the application → click the green play button or use the terminal:
     ```bash
-    git clone https://github.com/AnneKluytmans/novi-backend-springboot-controllers.git 
+    mvw spring-boot:run
     ```
-2. Open the project in your IDE (IntelliJ IDEA)
-
-3. Navigate to the `DemoApplication` class
-4. Run the application → click the green play button or use the terminal:
-    ```bash
-    ./mvnw spring-boot:run
-    ```
-5. Access the API using Postman or your browser: http://localhost:8080/api/greeting
+4. Access the API using Postman or your browser: http://localhost:8080/api/greeting
 
 
 ## Credits
