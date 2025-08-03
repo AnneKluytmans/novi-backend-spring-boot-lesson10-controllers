@@ -83,11 +83,11 @@ Example (city not found):
 
 1. Clone the repository:
    ```bash
-    git@github.com:AnneKluytmans/novi-backend-homework-java-pokemon-interfaces.git
+    git@github.com:AnneKluytmans/novi-backend-springboot-controllers.git
     ```
    or
     ```bash
-    git clone https://github.com/AnneKluytmans/novi-backend-homework-java-pokemon-interfaces.git 
+    git clone https://github.com/AnneKluytmans/novi-backend-springboot-controllers.git 
     ```
 2. Open the project in your IDE (IntelliJ IDEA)
 
